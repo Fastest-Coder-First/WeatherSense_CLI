@@ -40,7 +40,6 @@ python main.py <city_name/country_name>
 ## Dependencies
 
 The WeatherSense_CLI Tool relies on the following dependencies:
-
 - requests
 - argparse
 - pyfiglet
@@ -51,7 +50,14 @@ These dependencies are listed in the `requirements.txt` file and will be install
 
 ## GitHub Copilot Experience
 
-The WeatherSense_CLI Tool was developed with the assistance of GitHub Copilot, an AI-powered coding assistant. Copilot provides helpful code suggestions and autocompletion, making development faster and more efficient. It helps in generating code snippets, suggesting function signatures, and even completing entire lines of code. Copilot is powered by OpenAI's Codex, a new AI system that translates natural language into code. It is trained on a dataset of publicly available source code and natural language explanations. Copilot is currently in technical preview and is available as a Visual Studio Code extension.
+The WeatherSense_CLI Tool was developed with the assistance of GitHub Copilot, an AI-powered coding assistant. Copilot provides helpful code suggestions and autocompletion, making development faster and more efficient.
+![suggestions](./screenshots/suggestions.png "Copilot Suggestions")
+
+It helps in generating code snippets, suggesting function signatures, and even completing entire lines of code.
+![code](./screenshots/code.png "Copilot Suggestions") 
+
+Copilot is currently in technical preview and is available as a Visual Studio Code extension. It also helped us in writing this README file.
+![readme](./screenshots/readme.png "Copilot Suggestions")
 
 Copilot seamlessly integrates into our workflow, providing real-time assistance and helping us overcome coding challenges. While adjustments were occasionally needed, Copilot's understanding of our project's context and alignment with our coding style impressed us. 
 We believe it will continue to improve with user feedback and updates. Overall, Copilot has transformed our development process, allowing us to focus on delivering a superior user experience.
