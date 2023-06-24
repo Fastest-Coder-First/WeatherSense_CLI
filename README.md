@@ -32,7 +32,7 @@ To use the WeatherSense_CLI Tool, follow these steps:
 
 3. Run the tool with the following command:
 ```bash
-python weatherSense.py <city_name/country_name>
+python main.py <city_name/country_name>
 ```
 
 4. Wait for the tool to fetch and display the current weather forecast for the specified location.
@@ -49,12 +49,21 @@ The WeatherSense_CLI Tool relies on the following dependencies:
 
 These dependencies are listed in the `requirements.txt` file and will be installed during the installation process.
 
-## GitHub Copilot
+## GitHub Copilot Experience
 
-The WeatherSense_CLI Tool was developed with the assistance of GitHub Copilot, an AI-powered coding assistant. Copilot provides helpful code suggestions and autocompletion, making development faster and more efficient. It helps in generating code snippets, suggesting function signatures, and even completing entire lines of code.
+The WeatherSense_CLI Tool was developed with the assistance of GitHub Copilot, an AI-powered coding assistant. Copilot provides helpful code suggestions and autocompletion, making development faster and more efficient. It helps in generating code snippets, suggesting function signatures, and even completing entire lines of code. Copilot is powered by OpenAI's Codex, a new AI system that translates natural language into code. It is trained on a dataset of publicly available source code and natural language explanations. Copilot is currently in technical preview and is available as a Visual Studio Code extension.
 
-While using Copilot, it's important to review and validate the suggestions provided to ensure code quality and correctness. It can be a valuable tool to enhance productivity and assist in writing code more effectively.
+Copilot seamlessly integrates into our workflow, providing real-time assistance and helping us overcome coding challenges. While adjustments were occasionally needed, Copilot's understanding of our project's context and alignment with our coding style impressed us. 
+We believe it will continue to improve with user feedback and updates. Overall, Copilot has transformed our development process, allowing us to focus on delivering a superior user experience.
 
 ## Acknowledgments
 
 The WeatherSense_CLI Tool was developed using the OpenWeatherMap API, which provides the weather data used in this application. We would like to express our gratitude to the developers and contributors of OpenWeatherMap for their valuable service.
+
+
+## Contributors
+
+1. Manisha Sahu [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-gupta-4a5942201/)
+2. Amarnath K [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-gupta-4a5942201/)
+3. Jai Surya Katla [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaisurya-katla/)
+4. Himanshu Gupta [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-gupta-4a5942201/)
