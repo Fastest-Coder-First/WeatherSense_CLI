@@ -1,6 +1,6 @@
 # WeatherSense_CLI
 
-The WeatherSense_CLI Tool is a command line interface application that allows users to obtain the current weather forecast for any city or country of their choice. By utilizing the OpenWeatherMap API and leveraging the power of Python, this tool provides accurate and up-to-date weather information in a simple and convenient manner.
+The WeatherSense_CLI Tool is a command-line interface application allowing users to obtain the current weather forecast for any city or country they choose. By utilizing the OpenWeatherMap API and leveraging the power of Python, this tool provides accurate and up-to-date weather information in a simple and convenient manner.
 
 ## Installation
 
@@ -69,7 +69,7 @@ The WeatherSense_CLI Tool was developed using the OpenWeatherMap API, which prov
 
 ## Contributors
 
-1. Manisha Sahu [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-gupta-4a5942201/)
-2. Amarnath K [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-gupta-4a5942201/)
+1. Manisha Sahu [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manisha-sahu-5575b9205/)
+2. Amarnath K [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarnath-k-232878210/)
 3. Jai Surya Katla [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaisurya-katla/)
 4. Himanshu Gupta [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-gupta-4a5942201/)
