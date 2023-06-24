@@ -70,7 +70,6 @@ result += f"{icon}, {description} \n"
 result += f"Temperature: {temp}°C \n"
 result += f"Feel like: {feels_like}°C \n"
 
-# Print the output
 print(chalk.green(result))
 
 
