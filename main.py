@@ -3,9 +3,13 @@ import argparse
 import pyfiglet
 from simple_chalk import chalk
 import requests
-
+from dotenv import load_dotenv
+import os
 #API key for openweathermap
-API_KEY = "887aa8f495cc06a76573fa9bc8670b36"
+
+load_dotenv()
+API_KEY = os.getenv('API_KEY')
+
 
 #BASE URL for openweathermap
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
@@ -59,7 +63,6 @@ description = weather_data["weather"][0]["description"]
 icon = weather_data["weather"][0]["icon"]
 city = weather_data["name"]
 country = weather_data["sys"]["country"]
-
 #construct the output with weather icon
 icon=WEATHER_MAP.get(icon, "")
 result = f"{pyfiglet.figlet_format(city)}, {country}\n\n"
@@ -67,7 +70,7 @@ result += f"{icon}, {description} \n"
 result += f"Temperature: {temp}°C \n"
 result += f"Feel like: {feels_like}°C \n"
 
-#Print the output
+# Print the output
 print(chalk.green(result))
 
 

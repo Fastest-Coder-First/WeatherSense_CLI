@@ -6,3 +6,4 @@ pyfiglet==0.8.post1
 requests==2.31.0
 simple-chalk==0.1.0
 urllib3==2.0.3
+python-dotenv==1.0.0

@@ -45,6 +45,7 @@ The WeatherSense_CLI Tool relies on the following dependencies:
 - argparse
 - pyfiglet
 - simple-chalk
+- python-dotenv
 
 These dependencies are listed in the `requirements.txt` file and will be installed during the installation process.
 
