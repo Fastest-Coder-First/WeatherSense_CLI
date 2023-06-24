@@ -2,6 +2,8 @@
 
 The WeatherSense_CLI Tool is a command-line interface application allowing users to obtain the current weather forecast for any city or country they choose. By utilizing the OpenWeatherMap API and leveraging the power of Python, this tool provides accurate and up-to-date weather information in a simple and convenient manner.
 
+https://github.com/Fastest-Coder-First/WeatherSense_CLI/assets/81583897/b7643856-0ec7-4616-8a20-3bab5967a455
+
 ## Installation
 
 1. Clone the repository to your local machine:
